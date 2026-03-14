@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "scripts": {
+    "dts-gen": "kintone-dts-gen"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3",
+    "vite": "^8.0.0",
+    "@kintone/cli": "^1.19.1",
+    "@kintone/dts-gen": "^9.0.2"
+  }
+}
